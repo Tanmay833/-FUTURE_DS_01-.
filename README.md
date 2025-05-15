@@ -21,11 +21,11 @@ This project analyzes social media data to uncover trending hashtags, the most e
 ```
 .
 ├── Project1.py
+├── README.md
 ├── archive.zip (Data Set)
-├── top_hashtags.png
-├── top_liked_posts.png
 ├── platform_counts.png
-└── README.md
+├── top_hashtags.png
+└── top_liked_posts
 ```
 
 ## Example Insights
